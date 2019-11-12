@@ -3,4 +3,4 @@
 
 This project was done under QT Creator and OpenGL. Its objective was to generate parametric 3D morel mushrooms.
 
-![alt text](https://imgur.com/m44FWCz)
+![alt text](https://i.imgur.com/m44FWCz.png)
